@@ -57,7 +57,7 @@ export default {
     },
     thx(el){
       if(el.target.getAttribute('href') == 'http://www.easyar.cn'){
-        alert('Thanks for your watch, all test over!');
+        alert('Thanks for your watching, all test over!');
         location.href = '/'
       }
     }
