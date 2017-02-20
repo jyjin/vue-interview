@@ -1,5 +1,9 @@
 > **NOTE**: this demo is using Vue.js 1.x - the 2.0 version is [here](https://github.com/vuejs/vue-hackernews-2.0).
 
+# 上海优梦的看这里：
+  I dont used the vuejs , and for the time limit, just learned it one night and add some code base the origin code, you can also run it by  `npm run dev`, wish you will satisfied with me !
+
+
 # Vue.js HackerNews clone
 
 [Live demo](http://vuejs.github.io/vue-hackernews/)
